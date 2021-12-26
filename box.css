@@ -1,0 +1,40 @@
+.center{
+    position: relative;
+    margin-left: 50%;
+}
+.box{
+    height: 80px;
+    width: 80px;
+}
+.red{
+    background-color: red;
+    position: relative;
+
+}
+.black{
+    background-color: black;
+    position: relative;
+    left: 0px;
+    
+}
+.yellow{
+    background-color: yellow;
+    position: relative;
+    bottom: 80px;
+    
+
+   
+}
+.green{
+    background-color: green;
+    position: relative;
+    bottom: 80px;
+    right: 80px;
+}
+.blue{
+    background-color: blue;
+    position: relative;
+    bottom: 240px;
+    left: 80px;
+}
+
